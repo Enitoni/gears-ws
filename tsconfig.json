@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2015",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "lib": ["esnext"],
+    "strict": true,
+    "skipLibCheck": true,
+    "declaration": true
+  },
+  "exclude": ["node_modules"]
+}
